@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532597559109",
+    "project_id": "systemgram-888d5",
+    "storage_bucket": "systemgram-888d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532597559109:android:86909c6243b900eb6e382c",
+        "android_client_info": {
+          "package_name": "com.salikh.systemgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532597559109-lq09431uiqgo8qh697s0l14eamunfgcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuQuDYwIoTH-izbb_hDq4kxJwNayy4nzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532597559109-lq09431uiqgo8qh697s0l14eamunfgcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
